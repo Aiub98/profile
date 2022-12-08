@@ -134,3 +134,21 @@ p{
     width: 200px;
   }
 }
+
+@media (max-width: 960px) {
+  .h2s {
+  font-size: 60px;
+  }
+}
+
+@media (max-width: 720px) {
+  .h2s {
+    font-size: 45px;
+    }
+  }
+
+@media (max-width: 540px) {
+  .h2s {
+    font-size: 20px;
+  }
+}
