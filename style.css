@@ -152,3 +152,9 @@ p{
     font-size: 20px;
   }
 }
+
+@media (max-width: 540px) {
+  .h1 {
+    font-size: 48px;
+  }
+}
